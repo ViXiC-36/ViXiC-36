@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ViXiC-36
+- 👋 Hi, I’m Yingchuan Yang
 - 👀 I’m interested in NLP, ML and DL
 - 🌱 I’m currently learning Computer Science in USTC
 - 📫 Reach me by email
